@@ -30,6 +30,6 @@ Graphs/
 DP/
 
 ## Goal
-- Improve problem-solving skills
-- Prepare for coding interviews
-- Practice daily DSA questions
+- Improve problem-solving skills.
+- Prepare for coding interviews.
+- Practice daily DSA questions.
