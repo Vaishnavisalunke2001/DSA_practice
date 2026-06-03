@@ -32,4 +32,4 @@ DP/
 ## Goal
 - Improve problem-solving skills.
 - Prepare for coding interviews.
-- Practice daily DSA questions
+- Practice daily DSA questions.
