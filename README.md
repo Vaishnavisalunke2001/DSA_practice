@@ -24,6 +24,7 @@ This repository contains my Data Structures and Algorithms practice problems for
 ## Folder Structure
 
 Arrays/
+Hashing/
 LinkedList/
 Trees/
 Graphs/
